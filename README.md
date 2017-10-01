@@ -1,6 +1,8 @@
 # LipSegmentation
 implementation of the paper: Robust Lip Segmentation Based on Complexion Mixture Model
 
+#Opencv 2.4.4
+
 # example
     //faceImage is the ROI (Region Of Interest) in the input image using face detection
 		LipSegmentation lipPro(faceImage);
